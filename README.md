@@ -3,8 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 None
-- 🌱 Estou aprendendo a programar em python 
+- 🌱 Estou aprendendo a programar em python, html5 e css3
 - 📫 Contato: Instagram: pablo_carrijo, email: pablo.vcarrijo@gmail.com
 
 <div align="center">
